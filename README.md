@@ -1,10 +1,12 @@
 # news_app
 
-A new Flutter project.
+Aplikasi berita dengan state management valuenotifier menggunakan api dari https://newsapi.org/
 
-## Getting Started
+# Gambar aplikasi
 
-This project is a starting point for a Flutter application.
+![Img 1](screenshot/1.png)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
